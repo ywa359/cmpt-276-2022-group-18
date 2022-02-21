@@ -1,8 +1,8 @@
 **Proposal**  
 Document Header 
-Project Name: SheepMare
-Version: Proposal
-Date: 19/02/2022
+Project Name: SheepMare  
+Version: Proposal  
+Date: 19/02/2022  
 Project Team Member: Wang, Lucy, Aman, Anagh, Liu
 
 ----------
