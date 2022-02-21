@@ -6,6 +6,7 @@ Date: 19/02/2022
 Project Team Member: Wang, Lucy, Aman, Anagh, Liu
 
 ----------
+**Heroku**:https://cmpt2762022group18.herokuapp.com/
 
 **Project Abstract**    
 The software will make a small game of wolf hunting sheep. In this game, the player will take on the role of a wolf, and try to catch as many sheep as possible in a limited time. Traps will be set inside the field, players need to avoid them and try to use them to catch sheep. The game will also include different modes for players to choose from Easy, Medium, Hard. In these modes, sheep have different moving speeds and appearance times. Before playing the game, players need to create their own accounts and log in each time for play. The number of caught sheep will be recorded and make the scoreboard of players. 
