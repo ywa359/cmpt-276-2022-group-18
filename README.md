@@ -3,7 +3,7 @@ Document Header
 Project Name: SheepMare  
 Version: Proposal  
 Date: 19/02/2022  
-Project Team Member: Sen, Lucy, Aman, Anagh, Liu
+Project Team Member: Wang, Lucy, Aman, Anagh, Liu
 
 ----------
 **Heroku**:https://cmpt2762022group18.herokuapp.com/
