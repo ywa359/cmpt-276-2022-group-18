@@ -1,0 +1,41 @@
+<head>
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <script type="text/javascript" src="open.js"></script>
+</head>
+
+<div id="mySidenav" class="sidenav">
+    <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+    <a href="nHome.html">Homepage</a>
+    <a href="#">Record</a>
+    <a href="nUsers.html">Users</a>
+    <a href="nLogin.html">Login</a>
+</div>
+
+<!-- Open Navigation -->
+<button onclick="openNav()">open</button>
+<br>
+<br>
+
+  <div class="content">
+    <table>
+        <tr>
+            
+            <th>Rank</th>
+            <th>Name</th>
+            <th>ID</th>
+            <th>SCORE</th>
+            <th>Delete Option/Button</th>
+        </tr>
+        
+            <form >
+                <tr>
+                    
+                    <!-- <td><input style="width:60px; height:40px;" name="name" type="hidden" ></td> -->
+                    <td><input name="color"  value="<%= get.color %>"></td>
+                    <td><input name="width"  value="<%= get.width %>"></td>
+                    <td><input name="height"  value="<%= get.height %>"></td>
+                </tr>
+            </form>
+           
+    </table>
+</div>
